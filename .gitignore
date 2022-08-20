@@ -30,3 +30,7 @@
 *.exe
 *.out
 *.app
+Bin
+Intermediate
+*.depend
+/Source/TTE/ProjectFiles/cb20x03_RnD/*.layout
